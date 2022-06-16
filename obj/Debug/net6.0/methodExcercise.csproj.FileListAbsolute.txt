@@ -1,0 +1,5 @@
+D:\Coding\repos\methodExcercise\obj\Debug\net6.0\methodExcercise.csproj.AssemblyReference.cache
+D:\Coding\repos\methodExcercise\obj\Debug\net6.0\methodExcercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\repos\methodExcercise\obj\Debug\net6.0\methodExcercise.AssemblyInfoInputs.cache
+D:\Coding\repos\methodExcercise\obj\Debug\net6.0\methodExcercise.AssemblyInfo.cs
+D:\Coding\repos\methodExcercise\obj\Debug\net6.0\methodExcercise.csproj.CoreCompileInputs.cache
