@@ -12,6 +12,11 @@ namespace methodExcercise
         public static void Main() 
         {
             
+            
+        }
+
+        public static void AdLib() 
+        
             {
                 string str1;
                 string str2;
@@ -19,17 +24,17 @@ namespace methodExcercise
                 string str4;
 
                 Console.WriteLine("Hello, please pick a name...");
-                
+
                 str1 = Console.ReadLine();
                 Console.WriteLine("Perfect! Now, please pick a color");
-                
+
                 str2 = Console.ReadLine();
                 Console.WriteLine("One of my favorites! How about an animal?");
-                
+
                 str3 = Console.ReadLine();
                 Console.WriteLine("Wow. Didnt expect that. Okay. what about a Band?");
-                
-                str4 = Console.ReadLine(); 
+
+                str4 = Console.ReadLine();
                 Console.WriteLine($"{str1} {str2} {str3} {str4}");
 
                 Console.WriteLine("Want to hear a story about what you've chosen?");
@@ -45,8 +50,7 @@ namespace methodExcercise
                 Console.ReadLine();
 
             }
-        }
-
+        
        
     }
 
