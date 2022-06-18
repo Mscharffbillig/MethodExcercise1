@@ -1,0 +1,8 @@
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\obj\Debug\methodexcercise2.csproj.AssemblyReference.cache
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\obj\Debug\methodexcercise2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\obj\Debug\methodexcercise2.csproj.CoreCompileInputs.cache
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\bin\Debug\methodexcercise2.exe.config
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\bin\Debug\methodexcercise2.exe
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\bin\Debug\methodexcercise2.pdb
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\obj\Debug\methodexcercise2.exe
+D:\Coding\repos\methodExcercise\methodexcercise2\methodexcercise2\obj\Debug\methodexcercise2.pdb
